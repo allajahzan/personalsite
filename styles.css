@@ -1,21 +1,21 @@
-body {
+body
+     {
       background-color: #FAF1E6;
       margin: 0px;
       font-family: Sacramento,cursive;
       }
-hr {
+hr 
+{
   height: 0px;
   border-style: dotted none none;
   width: 5%;
   border-width: 6px;
-
-
 }
-h1 {
+h1
+{
   margin-top: 0px;
   font-size: 60px;
   color: #361500;
-
 }
 p {
   font-family: cursive;
@@ -41,8 +41,7 @@ h2 {
    top: 180px;
    left: 575px;
    margin: auto;
-
-  text-align: center;
+   text-align: center;
 }
 
 .middle-container
@@ -95,13 +94,11 @@ h2 {
   font-size: 40px;
   text-decoration: underline;
   color: #361500;
-
 }
 .message2 {
   font-size: 40px;
   text-decoration: underline;
   color: #361500;
-
 }
 .contact {
   text-align: center;
@@ -136,7 +133,6 @@ a:hover {
 }
 .skills {
   height: 220px;
-
 }
 .skill {
 position: relative;
