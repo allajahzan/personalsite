@@ -1,0 +1,174 @@
+body {
+      background-color: #FAF1E6;
+      margin: 0px;
+      font-family: Sacramento,cursive;
+      }
+hr {
+  height: 0px;
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 6px;
+
+
+}
+h1 {
+  margin-top: 0px;
+  font-size: 60px;
+  color: #361500;
+
+}
+p {
+  font-family: cursive;
+  font-size: 17px;
+}
+h2 {
+  font-size: 30px;
+  color: #361500;
+}
+.image {
+  width: 100%;
+}
+.top-container {
+  text-align: center;
+}
+
+.first
+ {
+   padding-top: 60px;
+   height: 320px;
+   width: 400px;
+   position: absolute;
+   top: 180px;
+   left: 575px;
+   margin: auto;
+
+  text-align: center;
+}
+
+.middle-container
+{
+  height: 350px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  position: relative;
+  bottom: 10px;
+}
+.allaj {
+  position: relative;
+  height: 220px;
+  bottom: 125px;
+}
+.aa {
+  position: relative;
+  bottom: 130px;
+}
+
+.bottom-container
+{
+  height: 510px;
+  width: 100%;
+  background-color: #FAF1E6;
+  text-align: center;
+}
+.fullstack {
+  text-decoration: underline;
+}
+
+.fourth-container
+ {
+  height: 490px;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+.talent {
+  height: 230px;
+}
+.fivth-container {
+  height: 330px;
+  width: 100%;
+  background-color:#FAF1E6;
+  text-align: center;
+}
+.contact1 {
+  font-size: 40px;
+  text-decoration: underline;
+  color: #361500;
+
+}
+.message2 {
+  font-size: 40px;
+  text-decoration: underline;
+  color: #361500;
+
+}
+.contact {
+  text-align: center;
+  background-color: #FAF1E6;
+  height: 270px;
+  padding-top: 10px;
+}
+.message {
+  text-align: center;
+  background-color: white;
+  height: 433px;
+}
+.link {
+  font-family: sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
+.pp {
+  padding-top: 15px;
+  font-size: 15px;
+}
+
+
+.size {
+  position: relative;
+  top: 30px;
+  font-size: 50px;
+  color: #361500;
+}
+.skills {
+  height: 220px;
+
+}
+.skill {
+position: relative;
+top: 30px;
+}
+.hot {
+  position: relative;
+  top: 40px;
+}
+.last {
+  height: 80px;
+  background-color: white;
+  padding-top: 30px;
+  line-height: 2px;
+  text-align: center;
+}
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  -webkit-box-shadow: 0px 4px 6px #666666;
+  -moz-box-shadow: 0px 4px 6px #666666;
+  box-shadow: 0px 4px 6px #666666;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 17px;
+  background: #f7f5ef;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ffffff;
+  text-decoration: none;
+}
